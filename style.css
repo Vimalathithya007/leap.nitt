@@ -1,0 +1,104 @@
+body{
+    background-image: url("bg_img1.jpg");
+    background-repeat: no-repeat; 
+    background-size: 100%;
+    
+
+}
+.title{
+    font-size: 180%;
+    height: 300px;
+    text-align: center;
+    margin-top: 170px;
+
+}
+.nav{
+    font-size: 120%;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    margin-left: -8px;
+    background-color: black;
+    color: white;
+    height: 45px;
+    margin-top: -12px;
+    font-size: 120%;
+    padding-top: 30px;
+}
+.nav span{
+    float: right;
+    padding: 3px;
+}
+.nav span a{
+    margin: 5px;
+    border-width: 2px;
+    margin-right: 25px;
+    text-decoration: none;
+}
+.about{
+    
+    font-style: italic;
+    text-align: center;
+    font-size: 130%;
+    margin-top: 70px;
+    margin-bottom: 40px;
+}
+.purpose{
+    background-image: url("im2.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding: 20px;
+    text-align: center;
+    font-size: 120%;
+    color: aliceblue;
+    margin-bottom: 40px;
+}
+.purpose h3{
+    font-size: 150%;
+    
+}
+.done{
+    background-image: url("im3.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    font-size: 120%;
+    padding: 20px;
+    text-align: center;
+    margin-top: 40px;
+}
+.how{
+    background-image: url("im4.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    font-size: 120%;
+    padding: 30px;
+    text-align: center;
+    margin-top: 0px;
+}
+.how div{
+    margin-top: 30px;
+}
+.contacts{
+    background-image: url("im5.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin-top: 40px;
+    padding: 20px;
+    font-size: 130%;
+    margin-bottom: 40px;
+}
+.contacts span span{
+    font-size: 130%;
+    margin-top: 20px;
+    margin-left: 60px;
+    margin-right: 70px;
+}
+.contacts span a{
+    margin-left: 40px;
+    text-decoration: none;
+    color: rgb(0, 157, 255);
+    padding: 10px 30px 10px 30px;
+    border-color: rgb(0, 157, 255);
+    border-style: solid;
+    border-width: 2px;
+}
